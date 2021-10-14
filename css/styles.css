@@ -1,5 +1,21 @@
 .jumbotron {
   background-color: lightblue;
+  margin: auto;
   text-align: center;
+  border: 10px solid blue;
+  padding: 10px;
   background-image: url(https://github.com/rjashby/vacation-site/blob/main/img/mountain.jpeg);
+}
+
+body {
+  background-color: lightgray;
+}
+
+.card {
+  margin: auto;
+  float: left;
+  border: 10px solid blue;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: gray;
 }
