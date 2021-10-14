@@ -1,14 +1,5 @@
 .jumbotron {
   background-color: lightblue;
   text-align: center;
-  box-sizing: border-box;
   background-image: url(https://github.com/rjashby/vacation-site/blob/main/img/mountain.jpeg);
-}
-
-.content {
-  float: left;
-}
-
-.img {
-  margin: 100%;
 }
